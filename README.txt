@@ -1,0 +1,1 @@
+Animation.hs file is needed if compiling the MyAnimation.hs file in GHCI.
